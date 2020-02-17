@@ -5,7 +5,7 @@ The input is the URL of a RCP url (example: https://www.realclearpolitics.com/ep
 
 The ouput allows the following features:
 - Aggregate voting percentages by any # of most recent polls
-- Filter by polls that samples Registered Voters vs Likely Voters
-- Provide both weighted and unweight averages by sample size
+- Filter by polls that sample Registered Voters vs Likely Voters
+- Provide both weighted and unweighted averages by sample size
 - Exclude specific polls and polls that sampled below or above a certain number of people
 - Filter by date (WIP)
